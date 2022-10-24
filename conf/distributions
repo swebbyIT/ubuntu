@@ -1,0 +1,7 @@
+Origin: swebbyIT.github.io/ubuntu
+Label: swebbyIT.github.io/ubuntu
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: SwebbyIT Repository
+SignWith: C7C1F275F14BE2AB

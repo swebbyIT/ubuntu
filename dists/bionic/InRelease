@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: swebbyIT.github.io/ubuntu
+Label: swebbyIT.github.io/ubuntu
+Codename: bionic
+Date: Mon, 24 Oct 2022 07:41:51 UTC
+Architectures: amd64
+Components: main
+Description: SwebbyIT Repository
+MD5Sum:
+ 8dd27ad2a760d7090513add00f5c1161 1088 main/binary-amd64/Packages
+ 7a649fa1bfe939107455214d19ae46bb 609 main/binary-amd64/Packages.gz
+ 213793abaf022fb24ab04304682e7372 136 main/binary-amd64/Release
+SHA1:
+ dc22416ca716d4ca75eac00c052108f4256538e4 1088 main/binary-amd64/Packages
+ f6d0af9613ae5c76bbdc81ba358981e6b52995a2 609 main/binary-amd64/Packages.gz
+ d5ca9ac4aa5ef6ad509d2fb10a203df7043f5c7d 136 main/binary-amd64/Release
+SHA256:
+ 9499a7be4cf47241fea49268e9d400fd9a3ab12e80a931cae55968ab028f59e2 1088 main/binary-amd64/Packages
+ 3c8343422d99b969db3c7bfc719f57f2e5109f2e4275dca8cff1b970d7e688f5 609 main/binary-amd64/Packages.gz
+ b3575d60dc5c5682a5af656036639beae44f09fdc4e16d6eac363ee63918b0da 136 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEVAbR10Znmqj3qBagx8HydfFL4qsFAmNWQcIACgkQx8HydfFL
+4qvS1gwAs/xrhAFu1jhPBd5Dpz2oKqy1q5XBlvBMZa9kV1BTXbN0wFrmP3WGP1Oh
+b6eVwX6SwBsbZJMRph137CikEMNrSD6W4I52BokqioXb33j9b1Y8+rv38AcNHlXB
+KQ4aXw2wQPJO/hNwllweyOpPcw4AbwrrgWUrn6Qei2bcJp+gYq+XOEiyt+kgBkLD
+kSuDg+DxY7Y8wq6KRzZN82tRNItOf15zaoikovW7OTGSyi1+XvK67gdqBWrCDlyZ
+KL9Lc1+OYu9xiN6UyELSvUrpoJm/Gp+8WWWlbY4mpqibPJWrhtdHSyT3YCEYxp5w
+TzWVQ0rwjcnVfDTiv27sfZqg/7du5Mg3NMcqHbhQmIJ8qWX1f/KJMx4RZKQeYWya
+uvCsqp7LujGPg61WkO3OO+LdVZhx7UJLOPI7UqdxqTi8VtrSwZA5jbiPtOp7w0XA
+TWFTP69gusv9HFFQl3dt4ekQnn8kWhh759cn2AcCuoS1wBeMM3vxh0Lt2y8UEcpr
+aDnKEfmS
+=iOdl
+-----END PGP SIGNATURE-----
